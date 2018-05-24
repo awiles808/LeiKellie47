@@ -1,5 +1,8 @@
 # LeiKellie47
 
+
+This readme reminds me of plain oatmeal.
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi perferendis, fuga molestiae velit laborum blanditiis nulla ipsa cupiditate deleniti. Odio cupiditate harum ducimus asperiores explicabo quos enim laboriosam recusandae officia.
 
 Bacon ipsum dolor amet drumstick pork belly boudin kevin, meatloaf short loin tenderloin jerky spare ribs turducken alcatra ribeye beef. Turducken prosciutto picanha pastrami tail ribeye pork loin shank pork chop kevin ground round tri-tip pork belly ham hock. Chuck drumstick ham hock, porchetta pork belly jerky picanha bresaola kevin. Tri-tip bresaola chicken, cow andouille cupim jowl shankle turducken shank.
@@ -15,3 +18,4 @@ Beef flank boudin bresaola landjaeger fatback. T-bone venison capicola pig short
 Does your lorem ipsum text long for something a little meatier? Give our generator a try… it’s tasty!
 
 This is Auburn's style for README
+
